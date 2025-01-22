@@ -13,3 +13,5 @@ The second dataset is the "pneumonia MNIST" that consist x-ray images of the che
 For each model, a user interaction part has been added to the end of the model to make predictions based on the used inputs.
 
 Finally, all the trained models has been saved and download as .pkl for a later usage and a program has been created that used these trained models and lets the used to make disease diagnosis by inputing data or uploading chest a x-ray image.
+
+![image](https://github.com/user-attachments/assets/2ab06056-fada-4ec7-9bbe-b3784055da26)
