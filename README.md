@@ -113,7 +113,10 @@ The tabular dataset includes health characteristics and labels for three disease
 ### AI Program with User Interaction
 A program integrates pre-trained models to:
 1. Diagnose heart attack, diabetes, or stroke using user-provided data.
-2. Detect pneumonia from user-uploaded X-ray images.
+   ![image](https://github.com/user-attachments/assets/b96a9db7-d243-43b9-a421-e47f98122537)
+3. Detect pneumonia from user-uploaded X-ray images.
+   ![image](https://github.com/user-attachments/assets/0a847796-8a5a-4430-ab52-4a94250be6cd)
+
 
 ---
 
