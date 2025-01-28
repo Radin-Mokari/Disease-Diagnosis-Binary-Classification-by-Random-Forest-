@@ -1,4 +1,4 @@
-# Disease-Diagnosis-Binary-Classification-by-Random-Forest-
+# Disease-Diagnosis-Binary-Classification
 Binary classification ML models that are based on random forest technique. The model are for predicting the presence of heart attack, diabetes and stroke diseases.
 These models are built for a coursework of the AI module in the University of Bradford.
 The datasets that used for training the models have been provided by the university.
